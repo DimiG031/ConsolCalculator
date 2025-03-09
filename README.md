@@ -39,6 +39,9 @@ Result: 50
 - **History Feature**: Add functionality to track and display previous calculations.
 - **Interactive Menu**: Develop a more interactive menu for selecting operations.
 
+---
+✨ **Author:** [Goran Dimitrijevic Dimi](https://dimig031.github.io/)
+
 ## License
 This project is open-source under the [MIT License](LICENSE).
 
